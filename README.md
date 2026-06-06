@@ -217,7 +217,8 @@ This project demonstrates:
 ## 👨‍💻 Developed By
 
 **Samyak Prashant Mahatme**
-Intern – Machine Learning / AI SaaS Developer
+---
+Intern – Machine Learning / MERN Stack Devloper
 
 ---
 
