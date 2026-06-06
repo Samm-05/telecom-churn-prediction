@@ -10,7 +10,7 @@
 * **Full Name:** Samyak Prashant Mahatme
 * **No. of Weeks:** 4 Weeks
 * **Project Name:** AI Customer Churn SaaS Analytics Platform
-* **Domain:** Machine Learning / AI SaaS
+* **Domain:** Machine Learning 
 
 ---
 
