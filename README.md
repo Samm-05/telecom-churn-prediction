@@ -1,9 +1,3 @@
-Got it — I’ll keep the **same structure, tone, and professionalism**, but upgrade it slightly to match your **2nd project: AI Customer Churn SaaS Platform (telecom analytics system)**.
-
-Here is your **ready-to-copy README for Project 2** 👇
-
----
-
 # 🎓 AI Customer Churn SaaS Platform
 
 ## 📌 Internship Project Report
@@ -227,11 +221,3 @@ Intern – Machine Learning / AI SaaS Developer
 
 ---
 
-If you want next upgrade, I can also make:
-
-* 🔥 Project 3 README (even more advanced like GenAI / CV project)
-* 💼 Portfolio-ready GitHub profile (all projects unified)
-* 🚀 Resume ATS version (high salary targeting)
-* 📊 Investor-style SaaS pitch deck for this project
-
-Just tell 👍
